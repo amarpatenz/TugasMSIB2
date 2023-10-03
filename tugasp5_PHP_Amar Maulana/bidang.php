@@ -109,6 +109,7 @@ $bidang=[$segitiga,$lingkaran,$persegi,$persegi_panjang];
         ?>
         </tr>
 
+
         <tbody align="center">
             <tr>
                 <td>1</td>
