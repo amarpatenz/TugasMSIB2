@@ -109,27 +109,6 @@ $bidang=[$segitiga,$lingkaran,$persegi,$persegi_panjang];
         ?>
         </tr>
 
-<!--        <tbody>
-     //    <?php// $no=1;
-     //    foreach ($ar_data as $data){
-
-               ?>
-               <tr>
-               <td><?=// $no++?></td>
-               <td><?=// $data['bidang']?></td?
-               </tr>
-        </tbody>
--->
-         <tbody>
-          <?php $no=1;
-         foreach ($ar_data as $data){
-
-               ?>
-               <tr>
-               <td><?=$no++?></td>
-               </tr>
-        </tbody>
-
         <tbody align="center">
             <tr>
                 <td>1</td>
